@@ -4,7 +4,7 @@
 
 Yes No Polls is a simple Telegram Bot that makes ... you guessed it!
 
-##Usage
+## Usage
 
 The idea behind Yes No Polls is to make polls in group chats.  Simply add the bot to your group and send /newpoll in order to makethe question.
 
